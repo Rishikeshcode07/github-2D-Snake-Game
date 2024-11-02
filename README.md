@@ -2,6 +2,7 @@
 A classic snake game developed using Java and Swing. 
 This project demonstrates object-oriented programming principles, game logic, and basic graphical user interface.
 This project mainly focused on opps concepts,dsa(arrays and linklist) and frame work(swing).
+
 Features(Simple Controls,Classic Snake Game Mechanics,Score Tracking,Game Over Detection,Replay Ability)
 
 Use arrow keys to control the snake:
